@@ -119,7 +119,7 @@ export default function About() {
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-[400px] lg:h-[400px] rounded-full p-1.5 bg-gradient-to-tr from-purple-500 via-pink-400 to-pink-500 shadow-2xl transition-all duration-500 hover:scale-105 hover:shadow-purple-500/30 hover:rotate-1">
               <div className="w-full h-full rounded-full overflow-hidden border-[6px] border-background relative bg-muted">
                 <Image
-                  src="https://media.licdn.com/dms/image/v2/D4D03AQEfrcuSkX_J7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712143581010?e=1777507200&v=beta&t=KUI0TkLUSn9NBQIyzg2KE37yjRAkUYHswGx_Si3-RN0"
+                  src="https://avatars.githubusercontent.com/u/137476888?v=4"
                   fill
                   sizes="(max-width: 768px) 256px, (max-width: 1024px) 320px, 400px"
                   alt="Satyapir Ghosh"
